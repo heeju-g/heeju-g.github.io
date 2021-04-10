@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="https://heeju-g.github.io/author/heeju/feed.xml" rel="self" type="application/atom+xml" />
   <link href="https://heeju-g.github.io/" rel="alternate" type="text/html" />
-  <updated>2021-04-10T05:26:39+00:00</updated>
+  <updated>2021-04-10T05:31:28+00:00</updated>
   <id>https://heeju-g.github.io/author/heeju/feed.xml</id>
 
   
@@ -37,21 +37,11 @@
       <published>2021-03-13T15:50:00+00:00</published>
       <updated>2021-03-13T15:50:00+00:00</updated>
       <id>https://heeju-g.github.io/java-basic</id>
-      <content type="html" xml:base="https://heeju-g.github.io/java-basic">&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-    &lt;meta charset=&quot;UTF-8&quot; /&gt;
-    &lt;title&gt;Title&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;span class=&quot;table-of-contents-list&quot;&gt;Java&lt;/span&gt;
+      <content type="html" xml:base="https://heeju-g.github.io/java-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Java (1)&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-basic02&quot;&gt;Java (2)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-basic&quot;&gt;Java (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-basic02&quot;&gt;Java (2)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
 
 &lt;p&gt;깃헙블로그 테스트 해보는 용도&lt;/p&gt;
 &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;sytaxHighlight&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;code&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;){&lt;/span&gt;
@@ -79,7 +69,7 @@
       
 
       
-        <summary type="html">&amp;lt;!DOCTYPE html&amp;gt; Title Java Java (1) Java (2)</summary>
+        <summary type="html">Java Java (1) Java (2)</summary>
       
 
       
@@ -92,21 +82,11 @@
       <published>2021-03-13T15:50:00+00:00</published>
       <updated>2021-03-13T15:50:00+00:00</updated>
       <id>https://heeju-g.github.io/java-basic02</id>
-      <content type="html" xml:base="https://heeju-g.github.io/java-basic02">&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-    &lt;meta charset=&quot;UTF-8&quot; /&gt;
-    &lt;title&gt;Title&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;span class=&quot;table-of-contents-list&quot;&gt;Java&lt;/span&gt;
+      <content type="html" xml:base="https://heeju-g.github.io/java-basic02">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Java (1)&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-basic02&quot;&gt;Java (2)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-basic&quot;&gt;Java (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-basic02&quot;&gt;Java (2)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
 
 &lt;p&gt;깃헙블로그 테스트 해보는 용도&lt;/p&gt;</content>
 
@@ -129,7 +109,7 @@
       
 
       
-        <summary type="html">&amp;lt;!DOCTYPE html&amp;gt; Title Java Java (1) Java (2)</summary>
+        <summary type="html">Java Java (1) Java (2)</summary>
       
 
       

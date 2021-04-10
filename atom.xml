@@ -10,21 +10,12 @@
       <item>
         <title>Java (2) - Java 기본02</title>
         
-          <description>&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-    &lt;meta charset=&quot;UTF-8&quot; /&gt;
-    &lt;title&gt;Title&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;span class=&quot;table-of-contents-list&quot;&gt;Java&lt;/span&gt;
+          <description>
+&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Java (1)&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-basic02&quot;&gt;Java (2)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-basic&quot;&gt;Java (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-basic02&quot;&gt;Java (2)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
 
 </description>
         
@@ -39,21 +30,12 @@
       <item>
         <title>Java (1) - Java 기본01</title>
         
-          <description>&lt;p&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/p&gt;
-&lt;html lang=&quot;en&quot;&gt;
-&lt;head&gt;
-    &lt;meta charset=&quot;UTF-8&quot; /&gt;
-    &lt;title&gt;Title&lt;/title&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;span class=&quot;table-of-contents-list&quot;&gt;Java&lt;/span&gt;
+          <description>
+&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Java&lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Java (1)&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&quot;./python-basic02&quot;&gt;Java (2)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-basic&quot;&gt;Java (1)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;./java-basic02&quot;&gt;Java (2)&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-
-&lt;/body&gt;
-&lt;/html&gt;
 
 </description>
         
